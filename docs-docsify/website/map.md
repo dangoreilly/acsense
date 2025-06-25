@@ -1,0 +1,2 @@
+# Map
+This is the landing page for the Acsense map. It provides an interactive map interface that allows users to explore various locations, buildings, and spaces on campus. The map is designed to be user-friendly and accessible.
