@@ -1,0 +1,5 @@
+node_modules/*
+scratch-pad/*
+.env
+docs/.vitepress/dist
+docs/.vitepress/cache
